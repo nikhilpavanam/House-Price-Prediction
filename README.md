@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Predicting prices of houses using Multiple Linear Regression
+Predicting the price of houses using different Regression methods
